@@ -1,0 +1,20 @@
+{
+    "translators": [
+        {
+            "name": "openailiked",
+            "envs": {
+                "OPENAILIKED_BASE_URL": "xx",
+                "OPENAILIKED_API_KEY": "xx",
+                "OPENAILIKED_MODEL": "claude-sonnet-4-6"
+            }
+        },
+        {
+            "name": "qwen-mt",
+            "envs": {
+                "ALI_DOMAINS": "scientific",
+                "ALI_API_KEY": "xx",
+                "ALI_MODEL": "qwen-mt-turbo"
+            }
+        }
+    ]
+}
