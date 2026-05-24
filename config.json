@@ -1,0 +1,11 @@
+{
+    "ENABLED_SERVICES": [
+        "Ali Qwen-Translation"
+    ],
+    "HIDDEN_GRADIO_DETAILS": true,
+    "ALLTRANSLATE_LANG_FROM": "English",
+    "ALLTRANSLATE_LANG_TO": "Simplified Chinese",
+    "ALLTRANSLATE_VFONT": null,
+    "NOTO_FONT_PATH": "",
+    "ALLTRANSLATE_PROMPT": ""
+}
